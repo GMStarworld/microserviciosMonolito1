@@ -1,7 +1,5 @@
-package com.example.demo.controllers.dto;
+package com.example.demo.entities;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.UUID;
 
